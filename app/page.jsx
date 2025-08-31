@@ -35,13 +35,13 @@ export default function Home() {
           </h1>
           <p className="text-md text-gray-700">Web Development</p>
           <div className="mt-24 md:mt-12 flex gap-3">
-            <a href="#">
+            <a href="https://www.linkedin.com/in/pandu-setia-darmawan-b4297a278">
               <FontAwesomeIcon
                 className="w-14 hover:text-blue-900"
                 icon={faSquareLinkedin}
               />
             </a>
-            <a href="#">
+            <a href="https://github.com/codewithpandu">
               <FontAwesomeIcon
                 className="w-14 hover:text-blue-900"
                 icon={faSquareGithub}
