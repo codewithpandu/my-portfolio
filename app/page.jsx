@@ -1,20 +1,20 @@
 import Image from "next/image";
-import MyProfile from "@/public/profile.jpg";
-import Javascript from "@/public/javascript.png";
-import ReactJs from "@/public/react.png";
-import Html from "@/public/html5.png";
-import Css from "@/public/css3.png";
-import Bootstrap from "@/public/bootstrap.png";
-import Tailwind from "@/public/tailwind.png";
-import Node from "@/public/node.png";
-import Next from "@/public/next.png";
-import Express from "@/public/express.png";
-import MySql from "@/public/mysql.png";
-import Mongo from "@/public/mongo.png";
-import Laravel from "@/public/laravel.png";
-import Illustrator from "@/public/illustrator.png";
-import Photoshop from "@/public/photoshop.png";
-import Wordpress from "@/public/wordpress.png";
+import MyProfile from "@/public/images/profile.jpg";
+import Javascript from "@/public/images/javascript.png";
+import ReactJs from "@/public/images/react.png";
+import Html from "@/public/images/html5.png";
+import Css from "@/public/images/css3.png";
+import Bootstrap from "@/public/images/bootstrap.png";
+import Tailwind from "@/public/images/tailwind.png";
+import Node from "@/public/images/node.png";
+import Next from "@/public/images/next.png";
+import Express from "@/public/images/express.png";
+import MySql from "@/public/images/mysql.png";
+import Mongo from "@/public/images/mongo.png";
+import Laravel from "@/public/images/laravel.png";
+import Illustrator from "@/public/images/illustrator.png";
+import Photoshop from "@/public/images/photoshop.png";
+import Wordpress from "@/public/images/wordpress.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faSquareGithub,

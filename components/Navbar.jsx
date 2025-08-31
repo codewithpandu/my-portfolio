@@ -4,7 +4,7 @@ import { useState } from "react";
 import NavLink from "./NavLink";
 import Image from "next/image";
 import { Squash as Hamburger } from "hamburger-react";
-import LogoImage from "@/public/logo.png";
+import LogoImage from "@/public/images/logo.png";
 
 export default function Navbar() {
   const [isOpen, setOpen] = useState(false);

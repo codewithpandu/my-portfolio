@@ -1,4 +1,4 @@
-import LogoImage from "@/public/logo.png";
+import LogoImage from "@/public/images/logo.png";
 import Image from "next/image";
 
 export default function Footer() {
